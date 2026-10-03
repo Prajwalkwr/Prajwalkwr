@@ -1,5 +1,7 @@
 # Prajwal Kunwor
 
+Live site: [https://prajwalkwr.vercel.app](https://prajwalkwr.vercel.app)
+
 Personal portfolio for Prajwal Kunwor, a BIM student in Kathmandu. The interface follows the structure of the referenced motion portfolio: loading stairs, staggered menu, particle hero, project panels, and a contact form that opens the visitor’s email app.
 
 ## Scripts
