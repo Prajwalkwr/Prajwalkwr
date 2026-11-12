@@ -17,7 +17,7 @@ I'm a BIM student and full stack web developer from Kathmandu, Nepal. I love Jav
 - 🎓 I'm currently a **BIM (Bachelor of Information Management) student**
 - 🔭 I'm currently working on [**ScopeShield**](https://github.com/Prajwalkwr/ScopeShield), evidence-driven scope-change management for agencies
 - 🌱 I'm currently learning **TypeScript, Next.js and testing (Vitest, Playwright)**
-- 💼 Check out my portfolio: [**prajwalkwr.vercel.app**](https://prajwalkwr.vercel.app)
+- 💼 Check out my portfolio: [**prajwalkwr.vercel.app**](https://myportfolio-delta-nine-20.vercel.app)
 - 👯 I'm looking to collaborate on **open source and full stack web projects**
 - 💬 Ask me about **React, MERN stack and building real-world web apps**
 - 📫 How to reach me: [**prajwalkwr567@gmail.com**](mailto:prajwalkwr567@gmail.com)
